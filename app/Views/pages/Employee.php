@@ -27,8 +27,8 @@
 						<th>123456</th>
 						<th>Male</th>
 						<th>1234567890</th>
-						<th>fotoktp</th>
-						<th>fotoprofil</th>
+						<th><img src="" alt=""></th>
+						<th><img src="" alt=""></th>
 						<th>active</th>
 					</tr>
 				</tbody>
